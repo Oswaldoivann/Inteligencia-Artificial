@@ -5,7 +5,7 @@
 Utilizando el data set de imagenes, enncontramos 2 grupos, personas que presentan un cuadro de nuemonia y las que no lo presentan.
 
 
-# Links de Paginas de Inteligencia Artificial
+# Paginas de Inteligencia Artificial
 
 https://huggingface.co/
 
