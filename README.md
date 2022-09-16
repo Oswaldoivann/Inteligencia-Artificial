@@ -9,6 +9,10 @@ Utilizando el data set de imagenes, enncontramos 2 grupos, personas que presenta
 
 https://huggingface.co/
 
+https://www.youtube.com/c/RingaTech
+
+https://www.youtube.com/c/SantiFiorino
+
 https://pair.withgoogle.com/guidebook/chapters
 
 https://github.com/features/copilot/
@@ -30,8 +34,6 @@ https://datasetsearch.research.google.com/
 https://course.fast.ai/
 
 https://www.louisbouchard.ai/learnai/
-
-https://huggingface.co/models
 
 https://keras.io/examples/
  
