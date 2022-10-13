@@ -9,6 +9,8 @@ Utilizando el data set de imagenes, enncontramos 2 grupos, personas que presenta
 
 https://huggingface.co/
 
+https://aprendeia.com/
+
 https://www.youtube.com/c/RingaTech
 
 https://www.youtube.com/c/SantiFiorino
